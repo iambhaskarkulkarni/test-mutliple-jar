@@ -8,6 +8,7 @@ class NotificationDetailsApplicationTests {
 
 	@Test
 	void contextLoads() {
+	test
 	}
 
 }
