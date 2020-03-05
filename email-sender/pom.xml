@@ -2,16 +2,15 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 
 	http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.sixdee.test</groupId>
+	<artifactId>email-sender</artifactId>
+	<name>email-sender</name>
 	<parent>
 		<groupId>com.sixdee</groupId>
 		<artifactId>parent</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 		<relativePath>../parent</relativePath>
 	</parent>
-	<groupId>com.sixdee</groupId>
-	<artifactId>email-sender</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>email-sender</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
