@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
-import com.sixdee.emailsender.dto.EmailDTO;
+import com.sixdee.emailsender.dto.*;
 
 
 
